@@ -58,5 +58,6 @@ Data was sourced from a credible global university ranking system.
    ```bash
    git clone https://github.com/MgSO477/STAT301_University_ranking_regression.git
    cd university-rankings-regression
+    ```
 
-   2. Open the `301_Final report-4.ipynb` file for a detailed walkthrough of the analysis.
+2. Open the `301_Final report-4.ipynb` file for a detailed walkthrough of the analysis.
